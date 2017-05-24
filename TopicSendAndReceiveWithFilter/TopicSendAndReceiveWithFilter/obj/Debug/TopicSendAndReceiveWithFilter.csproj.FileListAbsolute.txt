@@ -1,0 +1,15 @@
+c:\users\yutaovmtest1\documents\visual studio 2017\Projects\TopicSendAndReceiveWithFilter\TopicSendAndReceiveWithFilter\bin\Debug\TopicSendAndReceiveWithFilter.exe.config
+c:\users\yutaovmtest1\documents\visual studio 2017\Projects\TopicSendAndReceiveWithFilter\TopicSendAndReceiveWithFilter\bin\Debug\TopicSendAndReceiveWithFilter.exe
+c:\users\yutaovmtest1\documents\visual studio 2017\Projects\TopicSendAndReceiveWithFilter\TopicSendAndReceiveWithFilter\bin\Debug\TopicSendAndReceiveWithFilter.pdb
+c:\users\yutaovmtest1\documents\visual studio 2017\Projects\TopicSendAndReceiveWithFilter\TopicSendAndReceiveWithFilter\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\yutaovmtest1\documents\visual studio 2017\Projects\TopicSendAndReceiveWithFilter\TopicSendAndReceiveWithFilter\bin\Debug\System.Configuration.Abstractions.dll
+c:\users\yutaovmtest1\documents\visual studio 2017\Projects\TopicSendAndReceiveWithFilter\TopicSendAndReceiveWithFilter\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\yutaovmtest1\documents\visual studio 2017\Projects\TopicSendAndReceiveWithFilter\TopicSendAndReceiveWithFilter\bin\Debug\System.Configuration.Abstractions.pdb
+c:\users\yutaovmtest1\documents\visual studio 2017\Projects\TopicSendAndReceiveWithFilter\TopicSendAndReceiveWithFilter\obj\Debug\TopicSendAndReceiveWithFilter.csprojResolveAssemblyReference.cache
+c:\users\yutaovmtest1\documents\visual studio 2017\Projects\TopicSendAndReceiveWithFilter\TopicSendAndReceiveWithFilter\obj\Debug\TopicSendAndReceiveWithFilter.exe
+c:\users\yutaovmtest1\documents\visual studio 2017\Projects\TopicSendAndReceiveWithFilter\TopicSendAndReceiveWithFilter\obj\Debug\TopicSendAndReceiveWithFilter.pdb
+C:\Users\yutaovmtest1\documents\visual studio 2017\Projects\TopicSendAndReceiveWithFilter\TopicSendAndReceiveWithFilter\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\yutaovmtest1\documents\visual studio 2017\Projects\TopicSendAndReceiveWithFilter\TopicSendAndReceiveWithFilter\bin\Debug\NLog.dll
+C:\Users\yutaovmtest1\documents\visual studio 2017\Projects\TopicSendAndReceiveWithFilter\TopicSendAndReceiveWithFilter\bin\Debug\NLog.WindowsAzure.Configuration.dll
+C:\Users\yutaovmtest1\documents\visual studio 2017\Projects\TopicSendAndReceiveWithFilter\TopicSendAndReceiveWithFilter\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\yutaovmtest1\documents\visual studio 2017\Projects\TopicSendAndReceiveWithFilter\TopicSendAndReceiveWithFilter\bin\Debug\NLog.xml

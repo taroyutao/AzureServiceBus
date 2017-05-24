@@ -1,0 +1,8 @@
+c:\users\yutaovmtest1\documents\visual studio 2017\Projects\TopicSendAndReceiveWithFilter\AcceptClient\bin\Debug\AcceptClient.exe.config
+c:\users\yutaovmtest1\documents\visual studio 2017\Projects\TopicSendAndReceiveWithFilter\AcceptClient\bin\Debug\AcceptClient.exe
+c:\users\yutaovmtest1\documents\visual studio 2017\Projects\TopicSendAndReceiveWithFilter\AcceptClient\bin\Debug\AcceptClient.pdb
+c:\users\yutaovmtest1\documents\visual studio 2017\Projects\TopicSendAndReceiveWithFilter\AcceptClient\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\yutaovmtest1\documents\visual studio 2017\Projects\TopicSendAndReceiveWithFilter\AcceptClient\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\yutaovmtest1\documents\visual studio 2017\Projects\TopicSendAndReceiveWithFilter\AcceptClient\obj\Debug\AcceptClient.csprojResolveAssemblyReference.cache
+c:\users\yutaovmtest1\documents\visual studio 2017\Projects\TopicSendAndReceiveWithFilter\AcceptClient\obj\Debug\AcceptClient.exe
+c:\users\yutaovmtest1\documents\visual studio 2017\Projects\TopicSendAndReceiveWithFilter\AcceptClient\obj\Debug\AcceptClient.pdb
